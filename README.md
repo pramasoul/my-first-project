@@ -1,5 +1,6 @@
 # Project Name
 This project is underlined. (Describe the main goals of the project. Limit to 1-2 sentences)
+Alterations can be viewed.
 
 ## Description
 Optional section to provide a more detailed overview of the project.
